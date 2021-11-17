@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+    font-family: 'Pattaya', sans-serif;
+    text-align: center;
+    background-image: url(bg_feedbackpage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+}
